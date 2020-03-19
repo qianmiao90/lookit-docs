@@ -1,5 +1,6 @@
 ##################################
 2. Contributing to the codebase
+(test)
 ##################################
 
 Lookit is an open-source project, meaning that the code is freely available and anyone can contribute. This includes the actual Lookit platform, the components used in studies, and the documentation. Community contributions and input are critical to the project!
